@@ -17,7 +17,7 @@
                 <Button x:Name="inputButton" Content="Say &quot;Hello&quot;" Click="Button_Click"/>
             </StackPanel>
             <StackPanel x:Name="outputPanel" Orientation="Horizontal" Margin="0,20,0,20">
-                <TextBlock x:Name="greetingOutput" Text="."/>
+                <TextBlock x:Name="greetingOutput" Text=""/>
             </StackPanel>
         </StackPanel>
     </Grid>
